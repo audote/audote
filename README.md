@@ -36,7 +36,7 @@ Ruby on Rails
 This application requires:
 
 - Ruby 2.3.1
-- Rails 4.2.5.1
+- Rails 5
 
 Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
@@ -49,14 +49,19 @@ Documentation and Support
 Issues
 -------------
 
+github.com/audote/audote/issues
+
 Similar Projects
 ----------------
 
 Contributing
 ------------
 
+Para contribuir, por favor criar um pull request com o máximo de informações sobre o que foi feito, se precisa de algum comando para visualização.
+
 Credits
 -------
 
 License
 -------
+MIT
