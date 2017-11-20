@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
   resources :users
+  resources :animals
+  mount Attachinary::Engine => "/attachinary"
+    
   root to: 'visitors#index'
   get '/auth/:provider/callback' => 'sessions#create'
   get '/signin' => 'sessions#new', :as => :signin
