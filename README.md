@@ -48,8 +48,8 @@ Documentation and Support
 
 Issues
 -------------
+http://github.com/audote/audote/issues
 
-github.com/audote/audote/issues
 
 Similar Projects
 ----------------
